@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @azanmumtaz
-- 👀 I'm passionate about coding and shaping the digital world.
-- 🌱 I’m currently an undergraduate student of computer sciene
-- 💞️ I’m eager to collaborate and code together to create innovative solutions!
-- 📫 you can reach me through my email: azanmumtazabbasi@gmail.com
-- 😄 pronouns: he/him
-- ⚡ Fun fact: I'm a passionate computer science student with the love for programming and problem-solving.
+👋 Hi there, I'm Azan Mumtaz
+
+🎓 I'm an undergraduate Computer Science student passionate about building meaningful software and shaping the digital world.  
+💻 I love exploring new technologies, writing clean code, and solving real-world problems through programming.  
+🤝 I'm open to collaboration on innovative and impactful projects.  
+📬 Reach me at: **azanmumtazabbasi@gmail.com**  
+⚡ Fun fact: I thrive in quiet spaces and enjoy turning ideas into reality through code.
+
+🌱 Currently diving deeper into:
+- Java & Object-Oriented Programming
+- Full-stack development
+- Problem-solving & algorithms
 <!---
 azanmumtaz/azanmumtaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
